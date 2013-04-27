@@ -48,6 +48,7 @@
 body {
   min-width: 1280px;
   font-size: 11px;
+  overflow: hidden;
 }
 
 .aeg-main-table td {
@@ -102,11 +103,64 @@ body {
   font-weight: 700;
 }
 .aeg-shipment-table td {
-  padding: 2px;
+  padding: 3px 2px;
 }
 .aeg-shipment-table table {
   width: 100%;
 }
 .aeg-shipment-table input, .aeg-shipment-table select, .aeg-shipment-table label {
   margin: 0;
+}
+
+#menu {
+  overflow-y: auto;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+#menu #menuInner {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#content__l,
+#content__rt,
+#content__rbr,
+#content__rblt {
+  overflow: auto;
+}
+
+#content__l, #content__r {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  float: left;
+}
+
+#content {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#content__r,
+#content__rb {
+  overflow: hidden;
+}
+
+#content__l {
+  width: 55%;
+}
+
+#content__r {
+  width: 45%;
+  border-left: 1px solid #cccccc;
+}
+
+#content__rt {
+  border-bottom: 1px solid #cccccc;
+}
+
+#content__rbl {
+  border-right: 1px solid #cccccc;
 }

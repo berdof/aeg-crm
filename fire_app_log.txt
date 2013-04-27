@@ -55,3 +55,191 @@
 2013-04-27 13:42:08 overwrite overrides/css/style.css 
 2013-04-27 14:03:15 overwrite overrides/css/style.css 
 2013-04-27 14:13:25 overwrite overrides/css/style.css 
+2013-04-27 15:35:34 overwrite overrides/css/style.css 
+2013-04-27 15:35:37 overwrite overrides/css/style.css 
+2013-04-27 15:45:05 identical overrides/css/style.css 
+2013-04-27 15:45:06     error overrides/sass/style.scss (Line 73: Invalid CSS after "№": expected "{", was "")
+2013-04-27 15:45:06 overwrite overrides/css/style.css 
+2013-04-27 15:45:07     error overrides/sass/style.scss (Line 73: Invalid CSS after "#": expected id name, was "")
+2013-04-27 15:45:07 overwrite overrides/css/style.css 
+2013-04-27 15:45:09     error overrides/sass/style.scss (Line 73: Invalid CSS after "#me": expected "{", was "")
+2013-04-27 15:45:09 overwrite overrides/css/style.css 
+2013-04-27 15:45:10     error overrides/sass/style.scss (Line 73: Invalid CSS after "#men": expected "{", was "")
+2013-04-27 15:45:10 overwrite overrides/css/style.css 
+2013-04-27 15:45:11     error overrides/sass/style.scss (Line 73: Invalid CSS after "#menu": expected "{", was "")
+2013-04-27 15:45:11 overwrite overrides/css/style.css 
+2013-04-27 15:45:12 overwrite overrides/css/style.css 
+2013-04-27 15:45:16 overwrite overrides/css/style.css 
+2013-04-27 15:45:19 overwrite overrides/css/style.css 
+2013-04-27 15:46:32 overwrite overrides/css/style.css 
+2013-04-27 15:47:42 overwrite overrides/css/style.css 
+2013-04-27 16:06:12 identical overrides/css/style.css 
+2013-04-27 16:06:20 overwrite overrides/css/style.css 
+2013-04-27 16:09:36    remove .sass-cache/ 
+2013-04-27 16:09:36    remove overrides/css/style.css 
+2013-04-27 16:09:38    create overrides/css/style.css 
+2013-04-27 16:11:28 identical overrides/css/style.css 
+2013-04-27 16:11:29     error overrides/sass/style.scss (Line 78: Invalid CSS after "3": expected "{", was "")
+2013-04-27 16:11:29 overwrite overrides/css/style.css 
+2013-04-27 16:11:31 overwrite overrides/css/style.css 
+2013-04-27 16:11:32     error overrides/sass/style.scss (Line 78: Invalid CSS after "#": expected id name, was "")
+2013-04-27 16:11:32 overwrite overrides/css/style.css 
+2013-04-27 16:11:33     error overrides/sass/style.scss (Line 78: Invalid CSS after "#": expected id name, was "")
+2013-04-27 16:11:33 identical overrides/css/style.css 
+2013-04-27 16:11:34     error overrides/sass/style.scss (Line 78: Invalid CSS after "#menu": expected "{", was "")
+2013-04-27 16:11:34 overwrite overrides/css/style.css 
+2013-04-27 16:11:36     error overrides/sass/style.scss (Line 78: Invalid CSS after "#menuInner": expected "{", was "")
+2013-04-27 16:11:36 overwrite overrides/css/style.css 
+2013-04-27 16:11:37 overwrite overrides/css/style.css 
+2013-04-27 16:11:40 overwrite overrides/css/style.css 
+2013-04-27 16:11:42 overwrite overrides/css/style.css 
+2013-04-27 16:11:47 overwrite overrides/css/style.css 
+2013-04-27 16:11:49 identical overrides/css/style.css 
+2013-04-27 16:12:10 overwrite overrides/css/style.css 
+2013-04-27 16:12:12 overwrite overrides/css/style.css 
+2013-04-27 16:12:15 identical overrides/css/style.css 
+2013-04-27 16:13:36 overwrite overrides/css/style.css 
+2013-04-27 16:13:38 overwrite overrides/css/style.css 
+2013-04-27 16:13:41     error overrides/sass/style.scss (Line 84: Invalid CSS after "#": expected id name, was "")
+2013-04-27 16:13:41 overwrite overrides/css/style.css 
+2013-04-27 16:13:42     error overrides/sass/style.scss (Line 84: Invalid CSS after "#": expected id name, was "")
+2013-04-27 16:13:42 identical overrides/css/style.css 
+2013-04-27 16:13:44     error overrides/sass/style.scss (Line 84: Invalid CSS after "#contn": expected "{", was "")
+2013-04-27 16:13:44 overwrite overrides/css/style.css 
+2013-04-27 16:13:45     error overrides/sass/style.scss (Line 84: Invalid CSS after "#content": expected "{", was "")
+2013-04-27 16:13:45 overwrite overrides/css/style.css 
+2013-04-27 16:13:47 overwrite overrides/css/style.css 
+2013-04-27 16:13:56 overwrite overrides/css/style.css 
+2013-04-27 16:14:04 overwrite overrides/css/style.css 
+2013-04-27 16:14:07 overwrite overrides/css/style.css 
+2013-04-27 16:14:09 overwrite overrides/css/style.css 
+2013-04-27 16:14:11 overwrite overrides/css/style.css 
+2013-04-27 16:14:14 identical overrides/css/style.css 
+2013-04-27 16:14:16 overwrite overrides/css/style.css 
+2013-04-27 16:17:18 overwrite overrides/css/style.css 
+2013-04-27 16:19:29 identical overrides/css/style.css 
+2013-04-27 16:19:31 overwrite overrides/css/style.css 
+2013-04-27 16:19:36 overwrite overrides/css/style.css 
+2013-04-27 16:20:21    remove .sass-cache/ 
+2013-04-27 16:20:21    remove overrides/css/style.css 
+2013-04-27 16:20:23    create overrides/css/style.css 
+2013-04-27 16:31:35 overwrite overrides/css/style.css 
+2013-04-27 16:31:38 overwrite overrides/css/style.css 
+2013-04-27 16:32:36     error overrides/sass/style.scss (Line 89: Invalid CSS after "#content__r{": expected "}", was ", ")
+2013-04-27 16:32:36 overwrite overrides/css/style.css 
+2013-04-27 16:32:39 overwrite overrides/css/style.css 
+2013-04-27 16:32:42 overwrite overrides/css/style.css 
+2013-04-27 16:33:10 overwrite overrides/css/style.css 
+2013-04-27 16:36:31 overwrite overrides/css/style.css 
+2013-04-27 16:36:35 overwrite overrides/css/style.css 
+2013-04-27 16:37:39    remove .sass-cache/ 
+2013-04-27 16:37:39    remove overrides/css/style.css 
+2013-04-27 16:37:41    create overrides/css/style.css 
+2013-04-27 16:40:14 identical overrides/css/style.css 
+2013-04-27 16:40:16 overwrite overrides/css/style.css 
+2013-04-27 16:40:18 overwrite overrides/css/style.css 
+2013-04-27 16:42:27 overwrite overrides/css/style.css 
+2013-04-27 16:43:01 identical overrides/css/style.css 
+2013-04-27 16:44:12     error overrides/sass/style.scss (Line 94: Invalid CSS after "#": expected id name, was "")
+2013-04-27 16:44:12 overwrite overrides/css/style.css 
+2013-04-27 16:44:13     error overrides/sass/style.scss (Line 94: Invalid CSS after "#co": expected "{", was "")
+2013-04-27 16:44:13 overwrite overrides/css/style.css 
+2013-04-27 16:44:17     error overrides/sass/style.scss (Line 94: Invalid CSS after "#content__rt": expected "{", was "")
+2013-04-27 16:44:17 overwrite overrides/css/style.css 
+2013-04-27 16:44:19 overwrite overrides/css/style.css 
+2013-04-27 16:44:21 overwrite overrides/css/style.css 
+2013-04-27 16:49:04 overwrite overrides/css/style.css 
+2013-04-27 16:49:13 overwrite overrides/css/style.css 
+2013-04-27 16:51:51 overwrite overrides/css/style.css 
+2013-04-27 16:52:24 overwrite overrides/css/style.css 
+2013-04-27 16:55:01 overwrite overrides/css/style.css 
+2013-04-27 17:00:57 identical overrides/css/style.css 
+2013-04-27 17:01:01 overwrite overrides/css/style.css 
+2013-04-27 17:01:03 overwrite overrides/css/style.css 
+2013-04-27 17:01:13 identical overrides/css/style.css 
+2013-04-27 17:01:15     error overrides/sass/style.scss (Line 91: wrong number of arguments (0 for 1) for `abs')
+2013-04-27 17:01:15 overwrite overrides/css/style.css 
+2013-04-27 17:01:16 overwrite overrides/css/style.css 
+2013-04-27 17:01:23 overwrite overrides/css/style.css 
+2013-04-27 17:01:25 identical overrides/css/style.css 
+2013-04-27 17:01:52 identical overrides/css/style.css 
+2013-04-27 17:02:06 overwrite overrides/css/style.css 
+2013-04-27 17:02:14 overwrite overrides/css/style.css 
+2013-04-27 17:03:33 overwrite overrides/css/style.css 
+2013-04-27 17:03:36 overwrite overrides/css/style.css 
+2013-04-27 17:03:47 overwrite overrides/css/style.css 
+2013-04-27 17:03:49 overwrite overrides/css/style.css 
+2013-04-27 17:04:09 overwrite overrides/css/style.css 
+2013-04-27 17:04:17     error overrides/sass/style.scss (Line 99: Invalid CSS after "#": expected id name, was "")
+2013-04-27 17:04:17 overwrite overrides/css/style.css 
+2013-04-27 17:04:18     error overrides/sass/style.scss (Line 99: Invalid CSS after "#co": expected "{", was "")
+2013-04-27 17:04:18 overwrite overrides/css/style.css 
+2013-04-27 17:04:20     error overrides/sass/style.scss (Line 99: Invalid CSS after "#content__l": expected "{", was "")
+2013-04-27 17:04:20 overwrite overrides/css/style.css 
+2013-04-27 17:04:25 overwrite overrides/css/style.css 
+2013-04-27 17:04:27 overwrite overrides/css/style.css 
+2013-04-27 17:04:33 overwrite overrides/css/style.css 
+2013-04-27 17:04:40 overwrite overrides/css/style.css 
+2013-04-27 17:04:50 overwrite overrides/css/style.css 
+2013-04-27 17:04:53 overwrite overrides/css/style.css 
+2013-04-27 17:09:35 overwrite overrides/css/style.css 
+2013-04-27 17:09:37 overwrite overrides/css/style.css 
+2013-04-27 17:09:39 overwrite overrides/css/style.css 
+2013-04-27 17:09:41 overwrite overrides/css/style.css 
+2013-04-27 17:09:43 overwrite overrides/css/style.css 
+2013-04-27 17:09:50 overwrite overrides/css/style.css 
+2013-04-27 17:09:55     error overrides/sass/style.scss (Line 84: Invalid CSS after "$": expected identifier, was "#content__l,")
+2013-04-27 17:09:55 overwrite overrides/css/style.css 
+2013-04-27 17:09:57     error overrides/sass/style.scss (Line 85: Invalid CSS after "$bord": expected ":", was "#content__l,")
+2013-04-27 17:09:57 overwrite overrides/css/style.css 
+2013-04-27 17:09:58     error overrides/sass/style.scss (Line 85: Invalid CSS after "$border-": expected ":", was "#content__l,")
+2013-04-27 17:09:58 overwrite overrides/css/style.css 
+2013-04-27 17:10:00     error overrides/sass/style.scss (Line 85: Invalid CSS after "$border-color": expected ":", was "#content__l,")
+2013-04-27 17:10:00 overwrite overrides/css/style.css 
+2013-04-27 17:10:01     error overrides/sass/style.scss (Line 85: Colors must have either three or six digits: '#c')
+2013-04-27 17:10:01 overwrite overrides/css/style.css 
+2013-04-27 17:10:04     error overrides/sass/style.scss (Line 85: Colors must have either three or six digits: '#c')
+2013-04-27 17:10:04 identical overrides/css/style.css 
+2013-04-27 17:10:05     error overrides/sass/style.scss (Line 85: Colors must have either three or six digits: '#c')
+2013-04-27 17:10:05 overwrite overrides/css/style.css 
+2013-04-27 17:10:07 overwrite overrides/css/style.css 
+2013-04-27 17:10:13 overwrite overrides/css/style.css 
+2013-04-27 17:10:23 overwrite overrides/css/style.css 
+2013-04-27 17:10:39 overwrite overrides/css/style.css 
+2013-04-27 17:10:41 overwrite overrides/css/style.css 
+2013-04-27 17:10:45 overwrite overrides/css/style.css 
+2013-04-27 17:10:47 overwrite overrides/css/style.css 
+2013-04-27 17:11:15 overwrite overrides/css/style.css 
+2013-04-27 17:11:17 overwrite overrides/css/style.css 
+2013-04-27 17:11:20 overwrite overrides/css/style.css 
+2013-04-27 17:12:17     error overrides/sass/style.scss (Line 92: Invalid CSS after "%": expected placeholder name, was "#content{")
+2013-04-27 17:12:17 overwrite overrides/css/style.css 
+2013-04-27 17:12:17     error overrides/sass/style.scss (Line 92: Invalid CSS after "%": expected placeholder name, was "#content{")
+2013-04-27 17:12:18 identical overrides/css/style.css 
+2013-04-27 17:12:21 overwrite overrides/css/style.css 
+2013-04-27 17:12:23 identical overrides/css/style.css 
+2013-04-27 17:12:25 identical overrides/css/style.css 
+2013-04-27 17:12:28 overwrite overrides/css/style.css 
+2013-04-27 17:12:31 overwrite overrides/css/style.css 
+2013-04-27 17:12:33 identical overrides/css/style.css 
+2013-04-27 17:12:36 identical overrides/css/style.css 
+2013-04-27 17:12:39 identical overrides/css/style.css 
+2013-04-27 17:12:47 overwrite overrides/css/style.css 
+2013-04-27 17:12:51 overwrite overrides/css/style.css 
+2013-04-27 17:12:53 identical overrides/css/style.css 
+2013-04-27 17:12:57 overwrite overrides/css/style.css 
+2013-04-27 17:12:58 overwrite overrides/css/style.css 
+2013-04-27 17:13:05 overwrite overrides/css/style.css 
+2013-04-27 17:13:07 overwrite overrides/css/style.css 
+2013-04-27 17:14:35 overwrite overrides/css/style.css 
+2013-04-27 17:15:26 identical overrides/css/style.css 
+2013-04-27 17:15:33 overwrite overrides/css/style.css 
+2013-04-27 17:15:36 overwrite overrides/css/style.css 
+2013-04-27 17:17:34 overwrite overrides/css/style.css 
+2013-04-27 17:17:36 overwrite overrides/css/style.css 
+2013-04-27 17:17:43 overwrite overrides/css/style.css 
+2013-04-27 17:17:44 overwrite overrides/css/style.css 
+2013-04-27 17:17:47 overwrite overrides/css/style.css 
+2013-04-27 17:18:29    remove .sass-cache/ 
+2013-04-27 17:18:29    remove overrides/css/style.css 
+2013-04-27 17:18:30    create overrides/css/style.css 

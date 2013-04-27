@@ -2,7 +2,9 @@
 
 body {
   min-width: 1280px;
+  //min-height: 600px;
   font-size: 11px;
+  overflow: hidden;
 }
 
 .aeg-main-table {
@@ -56,16 +58,68 @@ body {
   input, select, option, span, p, a, div, label {
     font-size: 10px;
   }
-  label{
+  label {
     font-weight: 700;
   }
   td {
-    padding:3px 2px;
+    padding: 3px 2px;
   }
-  table{
+  table {
     width: 100%;
   }
-  input,select,label{
+  input, select, label {
     margin: 0;
   }
+}
+
+#menu {
+  overflow-y: auto;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  #menuInner {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+}
+
+$border-color: #ccc;
+#content__l,
+#content__rt,
+#content__rbr,
+#content__rblt {
+
+  overflow: auto;
+}
+
+%content__aside {
+  @include box-sizing(border-box);
+  margin: 0;
+  float: left;
+}
+
+#content {
+  @include box-sizing(border-box);
+}
+
+#content__r,
+#content__rb {
+  overflow: hidden;
+}
+
+#content__l {
+  width: 55%;
+  @extend %content__aside;
+}
+
+#content__r {
+  width: 45%;
+  @extend %content__aside;
+  border-left: 1px solid $border-color;
+}
+
+#content__rt {
+  border-bottom: 1px solid $border-color;
+}
+#content__rbl {
+  border-right: 1px solid $border-color;
 }
