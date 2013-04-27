@@ -1,0 +1,112 @@
+.db {
+  display: block;
+}
+
+.dib {
+  display: inline-block;
+}
+
+.center {
+  overflow: hidden;
+}
+
+.tac {
+  text-align: center;
+}
+
+.nav, .nav_hor {
+  list-style: none;
+}
+
+.nav_hor {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+.nav_hor li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  white-space: nowrap;
+  display: inline;
+  float: left;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.nav_hor li:first-child, .nav_hor li.first {
+  padding-left: 0;
+}
+.nav_hor li:last-child {
+  padding-right: 0;
+}
+.nav_hor li.last {
+  padding-right: 0;
+}
+
+body {
+  min-width: 1280px;
+  font-size: 11px;
+}
+
+.aeg-main-table td {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 5%;
+  padding: 2px 5px;
+  vertical-align: middle;
+  font-size: 11px;
+}
+.aeg-main-table td + td {
+  width: 9.5%;
+}
+.aeg-main-table td:last-child {
+  vertical-align: top;
+}
+.aeg-main-table .glyphicons {
+  line-height: 25px !important;
+  font-size: 25px;
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  width: 32px;
+}
+.aeg-main-table .glyphicons i:before {
+  position: relative;
+}
+
+.aeg-tabs .tab-content {
+  padding: 0;
+}
+.aeg-tabs .widget-head {
+  overflow: hidden;
+}
+
+.aeg-table-search {
+  margin-top: 4px;
+}
+
+.input-append .btn {
+  vertical-align: middle;
+}
+
+.aeg-shipment-table {
+  font-size: 10px;
+}
+.aeg-shipment-table input, .aeg-shipment-table select, .aeg-shipment-table option, .aeg-shipment-table span, .aeg-shipment-table p, .aeg-shipment-table a, .aeg-shipment-table div, .aeg-shipment-table label {
+  font-size: 10px;
+}
+.aeg-shipment-table label {
+  font-weight: 700;
+}
+.aeg-shipment-table td {
+  padding: 2px;
+}
+.aeg-shipment-table table {
+  width: 100%;
+}
+.aeg-shipment-table input, .aeg-shipment-table select, .aeg-shipment-table label {
+  margin: 0;
+}

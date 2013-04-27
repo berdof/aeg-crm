@@ -1,0 +1,158 @@
+2013-04-27 09:24:01    create css/style.css 
+2013-04-27 09:25:47    remove .sass-cache/ 
+2013-04-27 09:25:47    remove css/screen.css 
+2013-04-27 09:25:48    create css/screen.css 
+2013-04-27 09:26:26    create css/style.css 
+2013-04-27 09:27:16    remove .sass-cache/ 
+2013-04-27 09:27:16    remove css/style.css 
+2013-04-27 09:27:16    create css/style.css 
+2013-04-27 09:27:21 overwrite css/style.css 
+2013-04-27 10:57:11 identical css/style.css 
+2013-04-27 10:57:16     error sass/style.scss (Line 6: Invalid CSS after "main": expected "{", was "")
+2013-04-27 10:57:16 overwrite css/style.css 
+2013-04-27 10:57:22     error sass/style.scss (Line 6: Invalid CSS after ".a": expected "{", was "")
+2013-04-27 10:57:22 overwrite css/style.css 
+2013-04-27 10:57:23     error sass/style.scss (Line 6: Invalid CSS after ".aeg": expected "{", was "")
+2013-04-27 10:57:23 overwrite css/style.css 
+2013-04-27 10:57:25     error sass/style.scss (Line 6: Invalid CSS after ".aeg-": expected "{", was "")
+2013-04-27 10:57:25 overwrite css/style.css 
+2013-04-27 10:57:26     error sass/style.scss (Line 6: Invalid CSS after ".aeg-main": expected "{", was "")
+2013-04-27 10:57:26 overwrite css/style.css 
+2013-04-27 10:57:27     error sass/style.scss (Line 6: Invalid CSS after ".aeg-main-": expected "{", was "")
+2013-04-27 10:57:27 overwrite css/style.css 
+2013-04-27 10:57:29 overwrite css/style.css 
+2013-04-27 10:57:37 identical css/style.css 
+2013-04-27 10:57:47 overwrite css/style.css 
+2013-04-27 10:57:50 identical css/style.css 
+2013-04-27 10:57:53 identical css/style.css 
+2013-04-27 10:57:55     error sass/style.scss (Line 7: Invalid CSS after "    &+": expected "{", was "}")
+2013-04-27 10:57:55 overwrite css/style.css 
+2013-04-27 10:57:56     error sass/style.scss (Line 7: Invalid CSS after "    &+td": expected "{", was "}")
+2013-04-27 10:57:56 overwrite css/style.css 
+2013-04-27 10:58:00 overwrite css/style.css 
+2013-04-27 10:59:47     error sass/style.scss (Line 13: Invalid CSS after ".aeg-tabs": expected "{", was "")
+2013-04-27 10:59:47 overwrite css/style.css 
+2013-04-27 10:59:49 overwrite css/style.css 
+2013-04-27 10:59:53     error sass/style.scss (Line 14: Invalid CSS after "  .ta": expected "{", was "}")
+2013-04-27 10:59:53 overwrite css/style.css 
+2013-04-27 10:59:54     error sass/style.scss (Line 14: Invalid CSS after "  .tab": expected "{", was "}")
+2013-04-27 10:59:54 overwrite css/style.css 
+2013-04-27 10:59:55     error sass/style.scss (Line 14: Invalid CSS after "  .tab-": expected "{", was "}")
+2013-04-27 10:59:55 overwrite css/style.css 
+2013-04-27 10:59:56     error sass/style.scss (Line 14: Invalid CSS after "  .tab-content": expected "{", was "}")
+2013-04-27 10:59:56 overwrite css/style.css 
+2013-04-27 10:59:58 overwrite css/style.css 
+2013-04-27 11:06:08 identical css/style.css 
+2013-04-27 11:06:09     error sass/style.scss (Line 11: Invalid CSS after "  .icon": expected "{", was "}")
+2013-04-27 11:06:09 overwrite css/style.css 
+2013-04-27 11:06:59 overwrite css/style.css 
+2013-04-27 11:07:20 identical css/style.css 
+2013-04-27 11:07:24 overwrite css/style.css 
+2013-04-27 11:07:27 overwrite css/style.css 
+2013-04-27 11:07:31 overwrite css/style.css 
+2013-04-27 11:10:28 overwrite css/style.css 
+2013-04-27 11:10:31 overwrite css/style.css 
+2013-04-27 11:10:33 overwrite css/style.css 
+2013-04-27 11:10:42 overwrite css/style.css 
+2013-04-27 11:14:14 overwrite css/style.css 
+2013-04-27 11:14:17 identical css/style.css 
+2013-04-27 11:14:21 overwrite css/style.css 
+2013-04-27 11:14:23 overwrite css/style.css 
+2013-04-27 11:14:28 identical css/style.css 
+2013-04-27 11:14:33 identical css/style.css 
+2013-04-27 11:14:35 identical css/style.css 
+2013-04-27 11:14:37 overwrite css/style.css 
+2013-04-27 11:15:03 overwrite css/style.css 
+2013-04-27 11:16:33 overwrite css/style.css 
+2013-04-27 11:16:47 overwrite css/style.css 
+2013-04-27 11:17:02 overwrite css/style.css 
+2013-04-27 11:17:04 identical css/style.css 
+2013-04-27 11:21:24 overwrite css/style.css 
+2013-04-27 11:21:26 overwrite css/style.css 
+2013-04-27 11:23:37 identical css/style.css 
+2013-04-27 11:24:28 overwrite css/style.css 
+2013-04-27 11:24:36 overwrite css/style.css 
+2013-04-27 11:25:56 identical css/style.css 
+2013-04-27 11:26:00 overwrite css/style.css 
+2013-04-27 11:26:02 overwrite css/style.css 
+2013-04-27 11:26:04 overwrite css/style.css 
+2013-04-27 11:26:46 identical css/style.css 
+2013-04-27 11:26:48 overwrite css/style.css 
+2013-04-27 11:26:50 overwrite css/style.css 
+2013-04-27 11:26:51     error sass/style.scss (Line 22: wrong number of arguments (0 for 1) for `abs')
+2013-04-27 11:26:51 overwrite css/style.css 
+2013-04-27 11:26:53 overwrite css/style.css 
+2013-04-27 11:27:37 overwrite css/style.css 
+2013-04-27 11:27:39 overwrite css/style.css 
+2013-04-27 11:27:56 overwrite css/style.css 
+2013-04-27 11:27:57     error sass/style.scss (Line 17: Invalid CSS after "    &": expected "{", was "}")
+2013-04-27 11:27:57 overwrite css/style.css 
+2013-04-27 11:27:58     error sass/style.scss (Line 17: Invalid CSS after "    &:las": expected "{", was "}")
+2013-04-27 11:27:58 overwrite css/style.css 
+2013-04-27 11:27:59 overwrite css/style.css 
+2013-04-27 11:28:03 overwrite css/style.css 
+2013-04-27 11:29:41 overwrite css/style.css 
+2013-04-27 11:29:44 overwrite css/style.css 
+2013-04-27 11:29:53 overwrite css/style.css 
+2013-04-27 12:10:51 identical css/style.css 
+2013-04-27 12:10:57     error sass/style.scss (Line 39: Invalid CSS after "in": expected "{", was "")
+2013-04-27 12:10:57 overwrite css/style.css 
+2013-04-27 12:10:59     error sass/style.scss (Line 39: Invalid CSS after "input": expected "{", was "")
+2013-04-27 12:10:59 overwrite css/style.css 
+2013-04-27 12:11:01     error sass/style.scss (Line 39: Invalid CSS after "input ": expected "{", was "")
+2013-04-27 12:11:01 overwrite css/style.css 
+2013-04-27 12:11:03     error sass/style.scss (Line 39: Invalid CSS after ".": expected class name, was " input")
+2013-04-27 12:11:03 overwrite css/style.css 
+2013-04-27 12:11:05     error sass/style.scss (Line 39: Invalid CSS after ".input": expected "{", was "")
+2013-04-27 12:11:05 overwrite css/style.css 
+2013-04-27 12:11:06     error sass/style.scss (Line 39: Invalid CSS after ".input-app": expected "{", was "")
+2013-04-27 12:11:06 overwrite css/style.css 
+2013-04-27 12:11:07     error sass/style.scss (Line 39: Invalid CSS after ".input-append": expected "{", was "")
+2013-04-27 12:11:07 overwrite css/style.css 
+2013-04-27 12:11:08 overwrite css/style.css 
+2013-04-27 12:11:10 identical css/style.css 
+2013-04-27 12:11:12 overwrite css/style.css 
+2013-04-27 12:13:48     error sass/style.scss (Line 38: Invalid CSS after "  .wig": expected "{", was "}")
+2013-04-27 12:13:48 overwrite css/style.css 
+2013-04-27 12:13:49     error sass/style.scss (Line 38: Invalid CSS after "  .wi": expected "{", was "}")
+2013-04-27 12:13:49 overwrite css/style.css 
+2013-04-27 12:13:50     error sass/style.scss (Line 38: Invalid CSS after "  .wif": expected "{", was "}")
+2013-04-27 12:13:50 overwrite css/style.css 
+2013-04-27 12:13:53     error sass/style.scss (Line 38: Invalid CSS after "  .widget": expected "{", was "}")
+2013-04-27 12:13:53 overwrite css/style.css 
+2013-04-27 12:13:54     error sass/style.scss (Line 38: Invalid CSS after "  .widget-h": expected "{", was "}")
+2013-04-27 12:13:54 overwrite css/style.css 
+2013-04-27 12:13:59 overwrite css/style.css 
+2013-04-27 12:16:04 identical css/style.css 
+2013-04-27 12:16:08     error sass/style.scss (Line 41: Invalid CSS after "  .cirp": expected "{", was "}")
+2013-04-27 12:16:08 overwrite css/style.css 
+2013-04-27 12:16:09     error sass/style.scss (Line 41: Invalid CSS after "  .cir": expected "{", was "}")
+2013-04-27 12:16:09 overwrite css/style.css 
+2013-04-27 12:16:10     error sass/style.scss (Line 41: Invalid CSS after "  .circle": expected "{", was "}")
+2013-04-27 12:16:10 overwrite css/style.css 
+2013-04-27 12:16:11     error sass/style.scss (Line 41: Invalid CSS after "  .circle_p": expected "{", was "}")
+2013-04-27 12:16:11 overwrite css/style.css 
+2013-04-27 12:16:12     error sass/style.scss (Line 41: Invalid CSS after "  .circle_p": expected "{", was "}")
+2013-04-27 12:16:12 identical css/style.css 
+2013-04-27 12:16:13     error sass/style.scss (Line 41: Invalid CSS after "  .circle_pl": expected "{", was "}")
+2013-04-27 12:16:13 overwrite css/style.css 
+2013-04-27 12:16:14     error sass/style.scss (Line 41: Invalid CSS after "  .circle_plus": expected "{", was "}")
+2013-04-27 12:16:14 overwrite css/style.css 
+2013-04-27 12:16:15     error sass/style.scss (Line 42: Invalid CSS after "    c": expected "{", was "}")
+2013-04-27 12:16:15 overwrite css/style.css 
+2013-04-27 12:16:18 overwrite css/style.css 
+2013-04-27 12:16:23 overwrite css/style.css 
+2013-04-27 12:17:29 overwrite css/style.css 
+2013-04-27 12:17:32     error sass/style.scss (Line 45: Invalid CSS after ".": expected class name, was ".input-append{")
+2013-04-27 12:17:32 overwrite css/style.css 
+2013-04-27 12:17:34 overwrite css/style.css 
+2013-04-27 12:17:36 overwrite css/style.css 
+2013-04-27 12:17:39 overwrite css/style.css 
+2013-04-27 12:17:41 overwrite css/style.css 
+2013-04-27 12:17:43 overwrite css/style.css 
+2013-04-27 12:17:45 overwrite css/style.css 
+2013-04-27 12:17:48 overwrite css/style.css 
+2013-04-27 12:18:33     error sass/style.scss (Line 40: Invalid CSS after "  } }": expected selector or at-rule, was "}")
+2013-04-27 12:18:33 overwrite css/style.css 
+2013-04-27 12:19:41 overwrite css/style.css 
+2013-04-27 12:22:45 identical css/style.css 

@@ -1,0 +1,53 @@
+
+@import "compass/css3";
+@import "compass/css3/pie";
+@import "compass/css3/images";
+@import "compass/typography";
+@import "compass/layout/grid-background";
+@import "compass/css3/box-sizing";
+@import "compass/utilities/sprites/base";
+
+$pie-behavior: url(PIE.htc);
+@mixin spr-m($map,$ico) {
+  background: sprite($map,$ico) no-repeat;
+  @include sprite-dimensions($map,$ico) ;
+}
+@mixin spr($map,$ico) {
+  @include images-sprite($ico);
+  height: images-sprite-height($ico);
+  width: images-sprite-width($ico);
+}
+@mixin grad($grad) {
+  @include background-image($grad);
+  -pie-background: $grad;
+  background: -ms-#{$grad};
+}
+@mixin h-line-height($h) {
+  height: $h;
+  line-height: $h;
+}
+
+
+
+.db{
+  display: block;
+}
+.dib{
+  display: inline-block;
+}
+.center{
+  overflow: hidden;
+}
+.tac{
+  text-align: center;
+}
+
+.nav{
+  list-style: none;
+}
+.nav_hor{
+  @extend .nav;
+  @include horizontal-list;
+}
+
+ 

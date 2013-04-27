@@ -1,0 +1,71 @@
+@import "settings";
+
+body {
+  min-width: 1280px;
+  font-size: 11px;
+}
+
+.aeg-main-table {
+  td {
+    @include box-sizing(border-box);
+    width: 5%;
+    padding: 2px 5px;
+    vertical-align: middle;
+    font-size: 11px;
+    &+td {
+      width: 9.5%;
+    }
+    &:last-child {
+      vertical-align: top;
+    }
+  }
+  .glyphicons {
+    line-height: 25px !important;
+    font-size: 25px;
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    width: 32px;
+    i:before {
+      position: relative;
+    }
+  }
+}
+
+.aeg-tabs {
+  .tab-content {
+    padding: 0;
+  }
+  .widget-head {
+    overflow: hidden;
+  }
+}
+
+.aeg-table-search {
+  margin-top: 4px;
+}
+
+.input-append {
+  .btn {
+    vertical-align: middle;
+  }
+}
+
+.aeg-shipment-table {
+  font-size: 10px;
+  input, select, option, span, p, a, div, label {
+    font-size: 10px;
+  }
+  label{
+    font-weight: 700;
+  }
+  td {
+    padding:3px 2px;
+  }
+  table{
+    width: 100%;
+  }
+  input,select,label{
+    margin: 0;
+  }
+}
