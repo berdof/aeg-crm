@@ -1,21 +1,6 @@
-# osx noise
-.DS_Store
-profile
-
-# xcode noise
-build/*
-*.mode1
-*.mode1v3
-*.mode2v3
-*.perspective
-*.perspectivev3
-*.pbxuser
-*.xcworkspace
-xcuserdata
-
-# svn & cvs
-.svn
-CVS
-.idea/*
-.sass-cache/*
+.sass-cache
+.idea
 fire_app_log.txt
+*.TODO
+*.iml
+/tmp
