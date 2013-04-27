@@ -16,5 +16,6 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
-.idea
-.sass-cache
+.idea/
+.sass-cache/
+fire_app_log.txt
